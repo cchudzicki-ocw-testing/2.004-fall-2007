@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course labs and a brief description
+  of the lab facilities and rules.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

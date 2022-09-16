@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section provides information on the course text, problem
+  sets, quizzes, the final examination, grading, course ethics, and lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
